@@ -945,5 +945,4 @@
     <item type="id" name="secondaryProgress">false</item>
     <item type="id" name="recent_remove_item">false</item>
     <item type="id" name="recent_inspect_item">false</item>
-    <item type="id" name="traffic">false</item>
 </resources>
